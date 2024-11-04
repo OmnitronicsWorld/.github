@@ -6,5 +6,5 @@ Future to-do list:
 
 * Integrate GitHub Actions for CI/CD
 * Configure Packages for hosting self-built nuget packages, removing dependency on submodules in git
-* Set up pull requests with multiple reviewers
-* Set up repository locks on `main` branch for merges **only**
+* ~Set up pull requests with multiple reviewers~
+* ~Set up repository locks on `main` branch for merges **only**~
